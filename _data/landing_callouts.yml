@@ -1,0 +1,31 @@
+style: is-light
+height: is-medium
+items:
+  - title: Join the Community
+    subtitle: Aviatrix ACE 
+    icon: fa-network
+    description: >
+      The Aviatrix ACE Community is where Multicloud Architects
+      collaborate. 
+      
+      It's a live forum and knowledge base. 
+    call_to_action_name: Join
+    call_to_action_link: https://community.aviatrix.com/
+  - title: Launch
+    subtitle: Launch your Multicloud Control Plane
+    icon: fa-rocket
+    description: >
+      Try launching a Controller using the documentation manually.
+
+      Or try our automation Multicloud Control, Transit, and FireNet solututions using Terraform.
+    call_to_action_name: Launch
+    call_to_action_link: https://docs.aviatrix.com/StartUpGuides/aviatrix_overview.html#how-to-launch-aviatrix
+  - title: Terraform Solutions
+    subtitle: Aviatrix Terraform Provider Solutions
+    icon: fab fa-github
+    description: >
+      Advanced Multicloud Transit, FireNet, VPN, and others.
+
+      Deployed in minutes.
+    call_to_action_name: Terraform Solutions
+    call_to_action_link: https://multicloud.us/aviatrix-azure-controller/
