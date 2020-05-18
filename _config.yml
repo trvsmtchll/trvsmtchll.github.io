@@ -1,7 +1,5 @@
----
-layout: page
-title: Get there faster
-subtitle: Automate your Multicloud Network with Terraform
-callouts: landing_callouts
+title: Multicloud US
+description: Terraform Solutions
 remote_theme: chrisrhymes/bulma-clean-theme
----
+include:
+  - _data
