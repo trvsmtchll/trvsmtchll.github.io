@@ -2,7 +2,7 @@
 layout: page
 title: Get there faster
 subtitle: Automate your Multicloud Network with Terraform
-callouts: landing_callouts
+callouts: ./_data/landing_callouts
 ---
 
 ## Support 

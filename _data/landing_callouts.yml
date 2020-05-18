@@ -3,7 +3,7 @@ height: is-medium
 items:
   - title: Join the Community
     subtitle: Aviatrix ACE 
-    icon: fa-network
+    icon: fa-space-shuttle
     description: >
       The Aviatrix ACE Community is where Multicloud Architects
       collaborate. 
@@ -13,7 +13,7 @@ items:
     call_to_action_link: https://community.aviatrix.com/
   - title: Launch
     subtitle: Launch your Multicloud Control Plane
-    icon: fa-rocket
+    icon: fa-wrench
     description: >
       Try launching a Controller using the documentation manually.
 
