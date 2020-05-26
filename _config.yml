@@ -1,5 +1,3 @@
 title: Multicloud US
 description: Terraform Solutions
 remote_theme: chrisrhymes/bulma-clean-theme
-include:
-  - _data
