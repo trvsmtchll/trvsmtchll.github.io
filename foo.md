@@ -1,3 +1,11 @@
+---
+title: Test Page
+subtitle: Demo page without the sidebar
+layout: page
+show_sidebar: false
+---
+
+
 # Terraform Solutions
 
 Welcome to Aviatrix Terraform Solutions!
